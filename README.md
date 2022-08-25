@@ -1,6 +1,8 @@
 # PaintballVR
 PaintballVR is my first virtual reality game. I made it using Unity, XR Plugin and XR Interaction toolkit. Goal of this game is reach the other side of the arena. we can do that by shooting the target with their respective colour.  You can change the color of your paintball gun via picking different refill kept on the table. 
 
+> This game is made for Meta Quest 1 and 2.
+
 <img width="500" src="https://user-images.githubusercontent.com/88189594/186746074-1bf2f4a7-32cb-4d23-9d78-52292e34d591.png">
 
 
